@@ -1,0 +1,79 @@
+.fundo {
+    background-color: #3CB371;
+}
+
+img {
+    border-radius: 35px;
+    padding: 15px;
+    width: 180px;
+    width: 180px;
+    background-color: black;
+}
+
+.imagem{
+    margin: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#texto {
+    display: inline-block;
+}
+
+.titulo {
+    color: black;
+    font-family: arial;
+    font-size: 25px;
+}
+
+.descricao {
+    font-family: arial;
+    color: black;
+    font-size: 20px;
+}
+
+.linha {
+    background-color: black;
+    color: cyan;
+    font-size: 3px;
+}
+
+.sobre {
+    text-align: justify-all;
+    color: black;
+    font-size: 15px;
+}
+
+
+#conteudobarra {
+    background-color: #3CB371;
+}
+
+.destaque {
+    color: black;
+    font-family: arial;
+    background-color: white;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.contato{
+       color: black;    
+}
+
+#idioma {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+#formacao {
+    text-align: center;
+    font-family: arial;
+    font-size: 16px;
+}
+
+#conteudo2 {
+    background-color:#DCDCDC;
+}
